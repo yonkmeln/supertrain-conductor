@@ -1,5 +1,4 @@
 ---
-layout: layouts/home.njk
 title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /
@@ -22,3 +21,5 @@ The Markdown files can even include data, such as the author name, which is {{ p
 Click the button and you can deploy your own copy of this project to Netlify in just seconds!.
 
 [![Deploy to Netlify](//www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/freshyill/supertrain-conductor&stack=cms)
+
+[![Soundcloud](//icons.iconarchive.com/icons/danleech/simple/64/soundcloud-icon.png)](https://soundcloud.com/salamantra)
